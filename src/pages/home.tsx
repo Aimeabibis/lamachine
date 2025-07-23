@@ -1,5 +1,5 @@
 
-import { Header } from '../components/Header';
+import { Header } from '../component/header';
 
 export const Home = () => {
     return (<>
